@@ -1,0 +1,13 @@
+Package: rsut
+Type: Package
+Title: What the Package Does (Title Case)
+Version: 0.1.0
+Authors@R: person("Olga", "Semenkina", email = "semenkinaolga@gmail.com", role = c("aut", "cre"))
+Maintainer: The package maintainer <semenkinaolga@gmail.com>
+Description: The package contains some useful functions to save my time
+    Maybe it also can help you.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+Suggests: testthat
+RoxygenNote: 6.0.1
