@@ -20,3 +20,7 @@ Python/Cufflinks and plotly/\.ipynb_checkpoints/
 *.xlsx
 
 Python/Fruits/\.ipynb_checkpoints/
+
+OpenAI_API/api_key.txt
+
+OpenAI_API/.ipynb_checkpoints/
